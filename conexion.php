@@ -13,4 +13,8 @@
             $this->NombreDeDB = DB;
             ...
         }
+
+        public function desconectar() { }
+
+
     }
