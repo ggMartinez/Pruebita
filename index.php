@@ -4,8 +4,7 @@
     $apellido = "perez";
     echo "Buen dia " . $nombre;
 
-    sdfsdfsdfsdfsdf
 
 
-    
+
     echo "Chau";
