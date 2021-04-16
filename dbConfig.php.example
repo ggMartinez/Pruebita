@@ -3,3 +3,4 @@
     const DB="";
     const USER="";
     const PASSWORD="";
+    const ENCODING="":
